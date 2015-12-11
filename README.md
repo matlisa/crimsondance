@@ -6,8 +6,10 @@ Julie Chang, Steven Lee, Tianxing Ma
 
 #### Our Files
 <ul>
-<li><a href = https://github.com/matlisa/crimsondance/blob/d0c2a4d253732d678b98fbd3ff90c6d053ed2176/Final%20iPython%20Process%20Notebook.ipynb /a>Final iPython Process Notebook.ipynb</li>
-    We had some issues with git, so this file can be found at a previous commit!
+<li><a href = https://github.com/matlisa/crimsondance/blob/d0c2a4d253732d678b98fbd3ff90c6d053ed2176/Final%20iPython%20Process%20Notebook.ipynb /a>Final iPython Process Notebook.ipynb</li> 
+    <ul>
+    <li>(We had some issues with git, so this file can be found at a previous commit!)</li>
+    </ul>
 <li>Various data files in "tempdata"</li>
 </ul>
 
